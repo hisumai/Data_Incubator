@@ -46,6 +46,6 @@ Important note: this attribute highly affects the output target (e.g., if durati
 
 # Predictive Modelling Techniques
 
-Possible predictive modelling techniques that can be used to model the outcome variable, ** "Has the Client subscribed to a Term
-Deposit or not" **, are either Binary Logistic Regression Model or Support Vector Machine Classification Method.
+Possible predictive modelling techniques that can be used to model the outcome variable, **"Has the Client subscribed to a Term
+Deposit or not"**, are either Binary Logistic Regression Model or Support Vector Machine Classification Method.
 
